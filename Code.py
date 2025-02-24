@@ -62,4 +62,4 @@ print(result2)  # Expected output: "mult 18 16"
 
 # Perform stored operations
 print(perform_stored_operation(0))  # Expected output: 2 (7 - 5)
-print(perform_stored_operation(0))  # Expected output: 288 (18 * 16)
+print(perform_stored_operation(1))  # Expected output: 288 (18 * 16)
